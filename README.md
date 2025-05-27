@@ -25,3 +25,4 @@ Make sure you have Python 3.x installed. To run a project:
 ```bash
 cd project-folder-name
 python main.py
+```
