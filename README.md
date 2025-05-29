@@ -10,7 +10,8 @@ I plan to complete **all projects** in the course over the coming months and doc
 | No. | Project Name          | Level    | Status     | Notes         |
 |-----|------------------------|----------|------------|----------------|
 | 1   | Number Guesser   | Level I  | ✅ Done     | My first project! 🎉 |
-| 2   | ... (coming soon)     | Level I  | ⏳ In queue |                |
+| 2   | Rock Paper Scissore | Level I |  ✅ Done  | My first project using OOP! 🕹️|
+| 3   | ... (coming soon)     | Level I  | ⏳ In queue |                |
 
 ## 📁 Repository Structure
 
