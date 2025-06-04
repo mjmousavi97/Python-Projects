@@ -30,9 +30,7 @@ This project is a **streamlined password generator** built with [Streamlit](http
 
 Here’s a screenshot of the Streamlit dashboard in action:
 
-<p align="center">
-  <img src="images/Screenshot.png" alt="Dashboard Preview" width="600"/>
-</p>
+<img src="images/screenshot.png" width="300" alt="User Access Image" style="display:block; margin:auto;" />
 
 
 ## 🧰 Technologies Used
