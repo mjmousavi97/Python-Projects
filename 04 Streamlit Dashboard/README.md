@@ -26,6 +26,15 @@ This project is a **streamlined password generator** built with [Streamlit](http
 
 ---
 
+## 🖼️ App Preview
+
+Here’s a screenshot of the Streamlit dashboard in action:
+
+<p align="center">
+  <img src="/mnt/e/Project-based-python/Codes/Python-Projects/04 Streamlit Dashboard/images/Screenshot 2025-06-04 235318.jpg" alt="Dashboard Preview" width="700"/>
+</p>
+
+
 ## 🧰 Technologies Used
 
 - Python 3.x
