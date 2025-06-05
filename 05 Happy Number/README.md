@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Screenshot.jpg" alt="Happy Number Screenshot" width="400"/>
+</p>
+
 # 😊 Happy Number Checker
 
 This is a simple and interactive **Streamlit** web app that checks whether a given number is a *happy number* or not.
