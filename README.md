@@ -11,9 +11,11 @@ I plan to complete **all projects** in the course over the coming months and doc
 |-----|------------------------|----------|------------|----------------|
 | 1   | Number Guesser   | Level I  | ✅ Done     | My first project! 🎉 |
 | 2   | Rock Paper Scissore | Level I |  ✅ Done  | My first project using OOP! 🕹️|
-| 3| Password Generator (OOP & FP)| Level I| ✅ Done| Comparative project 🔐|
-|4| Password Generator (Streamlit UI)|Level I|✅ Done|UI-based interactive app ⚡ |
-| 5  | ... (coming soon)     | Level I  | ⏳ In queue |                |
+| 3   | Password Generator (OOP & FP)| Level I| ✅ Done| Comparative project 🔐|
+| 4   | Password Generator (Streamlit UI)|Level I|✅ Done|UI-based interactive app ⚡ |
+| 5   | Happy Number Checker   (Streamlit)   | Level I  | ✅ Done     | Mathematical logic with clean UI 💡   |
+| 6   | Monty Hall Simulation (Streamlit)    | Level I  | ✅ Done     | Probabilistic simulation + visualization 🎲 |
+| 7   | ... (coming soon)     | Level I  | ⏳ In queue |                |
 
 ## 📁 Repository Structure
 
